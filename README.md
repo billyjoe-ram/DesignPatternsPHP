@@ -7,4 +7,9 @@ Os Design Patterns são formas de estruturar código de forma eficiente percebid
 
 Patterns Implementados
 - [x] Strategy
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
+- [ ] Template Method
+
+## Próximas atualizações para o repositório
+
+- [ ] Adicionar testes automatizados para cada design pattern
